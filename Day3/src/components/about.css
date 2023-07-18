@@ -1,0 +1,31 @@
+.about {
+    background-image: url('https://cdn.desa.pl/filer_public_thumbnails/filer_public/e9/b7/e9b76c88-2268-405d-8c74-61ff36942edf/pawel_bobrowski_desa_rubens_008.jpg__1500x1000_q85_subsampling-2.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    text-align: center;
+    background-color: rgba(37, 36, 36, 0.7);
+    padding: 20px;
+  }
+  
+  .about h2 {
+    font-size: 36px;
+    color: #fffafa;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    color: white;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  .bold{
+    margin-left: 1px;
+  }
+  

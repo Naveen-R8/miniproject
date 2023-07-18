@@ -1,0 +1,80 @@
+body {
+    /* padding:20px 10px; */
+     margin:0;
+     font-family:Arial Helvetica sans-serif;
+    }
+.nav{
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0%;    
+    font-weight: 600;
+}
+.link
+{
+    height: 35px;
+    display: flex;
+    padding-left: 90%;
+    /* padding-right: 20%; */
+    /* padding-top: 0%; */
+    
+    font-weight: 300;
+}
+.linklog{
+    /* padding-left: 10px; */
+}
+.nav2{
+    background-color: rgb(7, 7, 7);
+    height: 55px;
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    /* padding: 0.2rem calc((100vw - 1000px) / 2);s */
+    /* z-index: 12;  */
+}
+.back1{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5a637ca212abd9dcb223541c/1687464207701-UQYE9LL3AX10K49TPMQU/headlandsauction2023_0390_byMyleenHolleroPhotography.jpg');
+    opacity: 0.9;
+    width: 100vw;
+    height: 93.3vh;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.text1{
+    padding-top: 6%;
+    font-size: 20px;
+}
+.text2{
+    font-size: 20px;
+}
+.motion
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJndeVCAH3j4pk9Nj-KsXhSwvhMQ8kTiB-m1qPY091A&s");
+    width: 1260px;
+    height: 550px;
+}
+.foot1{
+    height: 15em;
+    width: 100vw;
+    background-color: grey;
+}
+.foot2{
+    text-align: center;
+    padding-left: 80%;
+}
+.icon
+{
+    width: 50px;
+    height: 50px;
+}
+.loginh{
+    text-decoration: none;
+    color: white;
+    padding-left: 50%;
+}
+.signuph{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
